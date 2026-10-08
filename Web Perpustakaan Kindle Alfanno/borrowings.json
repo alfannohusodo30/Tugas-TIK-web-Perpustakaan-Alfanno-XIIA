@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "Andi",
+        "book_id": 2,
+        "judul": "Bumi",
+        "tanggal_pinjam": "2026-10-08",
+        "tanggal_kembali": "-",
+        "status": "Dipinjam"
+    },
+    {
+        "id": 2,
+        "username": "Andi",
+        "book_id": 5,
+        "judul": "Akademi Crypto",
+        "tanggal_pinjam": "2026-10-08",
+        "tanggal_kembali": "-",
+        "status": "Dipinjam"
+    }
+]
